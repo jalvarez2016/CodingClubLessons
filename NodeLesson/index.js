@@ -33,3 +33,5 @@ async function example() {
   }
 }
 example();
+
+// Talk about front-end and backend

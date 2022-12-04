@@ -22,3 +22,5 @@ In Javascript, this is optional (unless your boss tell you to include it) but it
 In some cases, there might be some tools in place that will throw errors if it is not included, usually this is tool will be a linter.
 
 # Functions
+
+# Other Notes
