@@ -6,7 +6,7 @@
 //      
 console.log("Hello World")
 
-//  2. As mentioned above the you can you can affect other files when running your
+//  2. As mentioned above you can affect other files when running your
 //      code. Below is a method to write text to another file. One of the things
 //      you should change is the path to the file you're writing to since your
 //      computer probably isn't called the same as mine. You can change the content of
